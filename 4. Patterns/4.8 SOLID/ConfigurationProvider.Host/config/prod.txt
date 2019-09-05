@@ -1,0 +1,10 @@
+ConfigurationProvider.Host.Models.ServiceSettings.Name = ServiceSettings
+ConfigurationProvider.Host.Models.ServiceSettings.Port = 5000
+ConfigurationProvider.Host.Models.ServiceSettings.ConnectionString = (prod) sqlserver/dba #testing
+ConfigurationProvider.Host.Models.ServiceSettings.ConnectionStringRead = (prod) sqlserverread/dba
+ConfigurationProvider.Host.Models.ServiceSettings.ConnectionStringWrite = (prod) sqlserverwrite/dba
+ServiceSettings.BatchSize = 800
+ConfigurationProvider.Host.Models.ServiceSettings.WaitTimeout = 2
+
+ConfigurationProvider.Host.Models.ServiceSettings.WriteAllMessages = true
+

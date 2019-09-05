@@ -1,0 +1,5 @@
+ConfigurationProvider.Host.Models.ServiceSettings.AlwaysLogDetailedInfo = true
+ConfigurationProvider.Host.Models.ParsingSettings.AlwaysLogDetailedInfo = true
+ConfigurationProvider.Host.Models.ParsingSettings.BatchSize = 500
+ConfigurationProvider.Host.Models.ServiceSettings.ConnectionString = (local) sqlserver/dba
+

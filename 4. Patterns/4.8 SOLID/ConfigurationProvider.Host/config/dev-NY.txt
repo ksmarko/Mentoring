@@ -1,0 +1,2 @@
+ConfigurationProvider.Host.Models.ServiceSettings.WriteAllMessages = true
+

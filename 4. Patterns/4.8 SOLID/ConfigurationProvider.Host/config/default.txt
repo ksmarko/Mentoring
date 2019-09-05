@@ -1,0 +1,12 @@
+# service settings
+ConfigurationProvider.Host.Models.ServiceSettings.Name = ServiceSettings
+ConfigurationProvider.Host.Models.ServiceSettings.Port = 5600 #todo: change to 5800
+ConfigurationProvider.Host.Models.ServiceSettings.ConnectionString = sqlserver/dba
+ServiceSettings.BatchSize = 500
+ConfigurationProvider.Host.Models.ServiceSettings.WaitTimeout = 5
+
+# parsing settings
+ConfigurationProvider.Host.Models.ParsingSettings.Name = ParsingSettings
+ConfigurationProvider.Host.Models.ParsingSettings.Path = localhost:3000
+ConfigurationProvider.Host.Models.ParsingSettings.Port = 3000
+

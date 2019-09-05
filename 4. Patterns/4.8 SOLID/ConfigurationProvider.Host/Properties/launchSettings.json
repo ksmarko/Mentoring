@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "ConfigurationProvider": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:5001/swagger/index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Local"
+      },
+      "applicationUrl": "https://localhost:5001"
+    }
+  }
+}
